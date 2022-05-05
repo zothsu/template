@@ -1,7 +1,8 @@
 # Application Name
 
-{Brief description of application}, {Date of current version}
-By {List of contributors}
+{Date of current version} - {Brief description of application}, 
+
+By Zoe Sullivan
 
 ## Description
 
@@ -37,4 +38,4 @@ REPO URL
 
 {Determine the license under which this application can be used. See below for more details on licensing.}
 
-Copyright (c) 2016 **{List of contributors or company name}**
+Copyright (c) 2022 **{List of contributors or company name}**
