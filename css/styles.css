@@ -44,9 +44,13 @@ body {
   line-height: 1.6;
 }
 
-img {
+img,
+video,
+iframe {
   display: block;
+  block-size: auto;
   max-width: 100%;
+  max-inline-size: 100%;
 }
 
 /* Typography */
@@ -62,8 +66,12 @@ h1 { font-size: var(--fs-h1); }
 h2 { font-size: var(--fs-h2); }
 h3 { font-size: var(--fs-h3); }
 
-.section__title{
+strong {
+  font-weight: var(--fw-bold);
+}
 
+.section__title{
+  font-size: var(--fs-h1);
 }
 
 .section__subtitle {
@@ -71,6 +79,17 @@ h3 { font-size: var(--fs-h3); }
   font-size: var(--fs-h3);
 }
 
+
+
+
+
+
+
+
+
+
+
+/* Main Body of Site */
 .section__subtitle--intro,
 .section__subtitle--paragraph {
   background: var(--clr-accent);
@@ -79,7 +98,7 @@ h3 { font-size: var(--fs-h3); }
 
 .nav-list {
   display: flex;
-  
   margin: 0;
   padding: 0;
   list-style: none;
+}
