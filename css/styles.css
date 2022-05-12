@@ -53,6 +53,22 @@ iframe {
   max-inline-size: 100%;
 }
 
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+  aspect-ratio: 2/1;
+  object-fit: cover;
+  object-position: top center;
+}
+
+
+
+
+
+
+
+
+
 /* Typography */
 
 h1,
