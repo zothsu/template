@@ -276,12 +276,12 @@ section {
     padding:1em;
 }
 
-.free__item {
+.free__item--link {
     text-decoration: none;
     color: var(--clr-fg);
 }
 
-.free__item:hover {
+.free__item--link:hover {
     text-decoration: underline;
     color: var(--clr-accent);
 }
