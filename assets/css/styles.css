@@ -92,6 +92,7 @@ header {
 
 h1 {
     text-align: center;
+    text-shadow: #26272b;
 }
 
 
@@ -269,19 +270,35 @@ FOOTER
 /* ------------------
 SECTION STYLES
 -------------------- */
-
+body {
+    background-color: hsla(200, 30, 70, .5);
+}
 section {
     display: flex;
     flex-direction: column;
+    background-color: var(--color-bg);
     padding:1em;
+    margin:2em;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
 }
 
-.free__item--link {
+.div {
+    border: #ffffff;
+    border-style: dashed;
+    padding:1em;
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+}
+.item--link {
     text-decoration: none;
     color: var(--clr-fg);
 }
 
-.free__item--link:hover {
+.item--link:hover {
     text-decoration: underline;
     color: var(--clr-accent);
 }
