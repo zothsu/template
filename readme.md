@@ -12,17 +12,15 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 <figure><img src="#" width="550" alt="application screenshot from desktop"></figure>
 
-## Technologies Used bold
+## Technologies Used
+
+![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-## Technologies Used
-
-![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
 
 ### Languages / Practiced Concepts
 
@@ -33,8 +31,8 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 ## To-do
 
-- Create function to allow for programming
-- Adjust CSS styling
+- Create seperate to-do for scrimba classes
+- Choose theme or MD badges
 - ~~Retake screenshot of application for better readme.md readability~~
 
 </br>
@@ -47,4 +45,4 @@ Project completed as part of Scrimba's [Learn JavaScript for free](https://scrim
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-Poker game application created as part of the JavaScript class in association with [Scrimba](https://scrimba.com/)
+*Application created as part of the JavaScript class in association with [Scrimba](https://scrimba.com/)
