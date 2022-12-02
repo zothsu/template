@@ -1,7 +1,7 @@
 
 # applicationName [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-> One to two line description of repository contents.
+> Description of repository contents in 1-2 lines.
 
 The [Application](z.netlify.app/) deployment link. Additional detail as needed. Eum exercitationem sint et voluptas soluta non doloribus deleniti et sint dolores ab omnis accusantium. 
 
