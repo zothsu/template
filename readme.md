@@ -1,41 +1,50 @@
-# Application Name
 
-{Date of current version} - {Brief description of application}, 
+# applicationName [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
-By Zoe Sullivan
+> One to two line description of repository contents.
 
-## Description
+The [Application](z.netlify.app/) deployment link. Additional detail as needed. Eum exercitationem sint et voluptas soluta non doloribus deleniti et sint dolores ab omnis accusantium. 
 
-{This is a detailed description of your application. Its purpose and usage. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+Quo eligendi dolores amet et sint temporibus qui molestiae suscipit et dolor autem. Cum optio culpa qui doloremque reiciendis et voluptas galisum nam nihil nemo eos praesentium iusto. Eum blanditiis culpa aut quae unde ea officiis velit et rerum placeat ut vero consequuntur.
 
-REPO NICKNAME
-REPO URL
+Project completed as part of Scrimba's [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) course.
+</br>
 
-## Setup/Installation Requirements
+<figure><img src="#" width="550" alt="application screenshot from desktop"></figure>
 
-* gitinit
-* git add **.**
-* git commit -m "add initial files to repo"
-* git log (confirms commit and message)
-* git remote add NICKNAME https://github.com/USERNAME/REPO
-* git remote -v (confirms code was pushed to correct repo)
+## Technologies Used bold
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Known Bugs
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
-
-## Support and contact details
-
-{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Technologies Used
 
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+![Ubuntu](https://img.shields.io/badge/--E95420?logo=ubuntu&logoColor=ffffff) ![Visual Studio Code](https://img.shields.io/badge/--006ACC?logo=visual%20studio%20code&logoColor=ffffff)
+
+### Languages / Practiced Concepts
+
+- HTML/CSS
+- JavaScript
+
+</br>
+
+## To-do
+
+- Create function to allow for programming
+- Adjust CSS styling
+- ~~Retake screenshot of application for better readme.md readability~~
+
+</br>
+
+## Contributor(s)
+
+- Contributor
 
 ## License
 
-{Determine the license under which this application can be used. See below for more details on licensing.}
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-Copyright (c) 2022 **{List of contributors or company name}**
+Poker game application created as part of the JavaScript class in association with [Scrimba](https://scrimba.com/)
