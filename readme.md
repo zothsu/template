@@ -1,24 +1,30 @@
-# appName 
+# appName [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) 
+ [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-g.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 > Description of repository contents in 1-2 lines.
 
-The [Application](z.netlify.app/) deployment link. 
+The [Application](z.netlify.app/) deployment link. Additional detail as needed.
 
-Additional application details as needed.
+### T0-DO
+
+- Create a future feature to-do list
+- Update license in template and projects to GNU v3
+- Add license information
+
+</br>
 
 ## Install
 
-Install [GitHub CLI](https://cli.github.com/manual/)
+[GitHub CLI](https://cli.github.com/manual/) required for installation
 
 Run:
-
 ```sh
 gh repo fork https://github.com/zoethesullivan/template
 cd /template
 ```
 
+</br>
 
 ## Technologies Used
 
@@ -26,16 +32,10 @@ cd /template
 
 </br>
 
-## To-do
-
-- Create a future feature to-do list
-- Update license in template and projects to GNU v3
-
-</br>
-
 ## License
 
-[MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
-*Application created as an assigned individual project in association with [Scrimba](https://scrimba.com/)
-*Application created for class [LFD201](#)
+Application created as an assigned individual project in association with [Scrimba](https://scrimba.com/)
+
+Application created in association with The Linux Foundation for class [Introduction to Open Souce Development, Git and Linux](https://openprofile.dev/profile/zoetsullivan)
