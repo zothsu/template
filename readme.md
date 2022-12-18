@@ -30,6 +30,8 @@ cd /template
 
 ### Languages / Practiced Concepts
 
+https://github.com/RichardLitt/knowledge
+
 </br>
 
 ## Contributor Guidelines
