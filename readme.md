@@ -32,6 +32,12 @@ cd /template
 
 </br>
 
+## Contributor Guidelines
+
+https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
+
+</br>
+
 ## License
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
