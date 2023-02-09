@@ -8,6 +8,7 @@ The [Application](z.netlify.app/) deployment link. Additional detail as needed.
 
 ### T0-DO
 
+- Write resource list in JS instead of HTML. Create Object and Array to sort data.
 - Create a future feature to-do list
 - Update license in template and projects to GNU v3
 - Add license information
