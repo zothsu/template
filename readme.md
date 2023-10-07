@@ -4,7 +4,9 @@
 
 [Application](z.netlify.app/) deployment link
 
-> The aim of this project is to provide an easy template and gathering of useful information for my other repositories. 
+The aim of this project is to provide an easy template and gathering of useful information for my other repositories. 
+
+The goals for this repository are:
 
 ## Table of Contents
 
@@ -18,21 +20,13 @@
 
 ## Background
 
-Simplicity is very important to me, therefore this repository complies with[](https://github.com/RichardLitt/) [Standard Readme](https://github.com/RichardLitt/standard-readme)
+Simplicity is very important to me, therefore this repository complies with [Richard Litt's ](https://github.com/RichardLitt/) [Standard Readme](https://github.com/RichardLitt/standard-readme) and  
 
 > Your documentation is complete when someone can use your module without ever
-having to look at its code. This is very important. This makes it possible for
-you to separate your module's documented interface from its internal
-implementation (guts). This is good because it means that you are free to
-change the module's internals as long as the interface remains the same.
-
-> Remember: the documentation, not the code, defines what a module does.
+having to look at its code. 
 
 ~ [Ken Williams, Perl Hackers](http://mathforum.org/ken/perl_modules.html#document)
 
-Writing READMEs is way too hard, and keeping them maintained is difficult. By offloading this process - making writing easier, making editing easier, making it clear whether or not an edit is up to spec or not - you can spend less time worrying about whether or not your initial documentation is good, and spend more time writing and using code.
-
-By having a standard, users can spend less time searching for the information they want. They can also build tools to gather search terms from descriptions, to automatically run example code, to check licensing, and so on.
 
 The goals for this repository are:
 
