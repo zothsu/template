@@ -1,22 +1,10 @@
 # repository 
 
-<!-- readme style--> 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg?)](https://github.com/RichardLitt/standard-readme) <!-- repository maintained?--> [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge)
-
-
-
-![GitHub](https://img.shields.io/github/license/zothsu/template)
-
-<!-- HEX color stated below controls coloration of the left side of the badge -->
-[![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0)
-
+![GitHub](https://img.shields.io/github/license/zothsu/template) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg?)](https://github.com/RichardLitt/standard-readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge) [![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0)
 
 <!-- Maintained?
-No
- [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](maintained=no)
-
-Yes
- [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](maintained=yes)
+No  [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](maintained=no)
+Yes [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](maintained=yes)
 -->
 
 The [application](z.netlify.app/) deployment link
