@@ -1,50 +1,40 @@
-# appName [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+# repository 
 
- [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com) [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-g.svg)](https://bitbucket.org/lbesson/ansi-colors)
+![GitHub](https://img.shields.io/github/license/zothsu/template) [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg?)](https://github.com/RichardLitt/standard-readme) [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge) [![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0)
+
+<!-- Maintained?
+No  [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](maintained=no)
+Yes [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](maintained=yes)
+-->
+
+The [application](z.netlify.app/) deployment link
+
 
 > Description of repository contents in 1-2 lines.
 
-The [Application](z.netlify.app/) deployment link. Additional detail as needed.
-
 ### T0-DO
 
-- Write resource list in JS instead of HTML. Create Object and Array to sort data.
-- Create a future feature to-do list
-- Update license in template and projects to GNU v3
 - Add license information
 
-</br>
-
-## Install
-
-[GitHub CLI](https://cli.github.com/manual/) required for installation
-
-Run:
-```sh
-gh repo fork https://github.com/zoethesullivan/template
-cd /template
-```
-
-</br>
-
-## Technologies Used
-
-### Languages / Practiced Concepts
-
-https://github.com/RichardLitt/knowledge
-
-</br>
-
-## Contributor Guidelines
-
-https://www.contributor-covenant.org/version/1/3/0/code-of-conduct/
-
-</br>
-
 ## License
+Bage dynamically generates based on license listed in the repository
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![GitHub](https://img.shields.io/github/license/zothsu/template)
 
-Application created as an assigned individual project in association with [Scrimba](https://scrimba.com/)
 
-Application created in association with The Linux Foundation for class [Introduction to Open Souce Development, Git and Linux](https://openprofile.dev/profile/zoetsullivan)
+## Additional readme addons
+
+Note: These add-on's are here for other readme documentaion that might need more design focused needs.
+
+## Repository maintained
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://shields.io/badges/static-badge)
+
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge)
+
+## Alternative header option
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=application%20name&fontSize=60)
+
+## Thanks
+
+To [kyechan99](https://github.com/kyechan99/capsule-render) for the absolutely spectacular capsule-render!
