@@ -21,6 +21,7 @@ population of common technologies added.
 - [Additional Documentation](#additional-documentation)
 - [Changelog](#changelog)
 - [Roadmap](#roadmap)
+- [Authors](#authors)
 - [Additional readme addons](#additionalreadmeaddons)
   - [Badges](#badges)
     - [Dynamic License](#dynamiclicense)
@@ -98,6 +99,8 @@ npm run build
 
 ## Additional Documentation
 
+* Project folder on server: …
+* Confluence link: …
 * Slack project channel: …
 * etc...
 
@@ -230,4 +233,3 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-
