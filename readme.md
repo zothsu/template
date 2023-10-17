@@ -4,7 +4,6 @@
 population of common technologies added.
 
 ![License](https://img.shields.io/github/license/zothsu/template) 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg?)](https://github.com/RichardLitt/standard-readme) 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge) 
 
 ## Table of Contents
@@ -41,9 +40,11 @@ One to two paragraphs about the project: What is this project about? What does t
 
 ## Getting Started
 
+
+
 ### Prerequisites and Main Dependencies
 
-* NPM
+
 * Node
 * TailwindCSS
 * Hugo Extended
@@ -132,9 +133,43 @@ We use [Semantic Versioning](http://semver.org/) for versioning.
 
 Note: These add-on's are here for other readme documentaion that might have more design focused needs.
 
+### Requirements for a Standard README
+
+  - Be called README.md (with capitalization).
+  - If the project supports i18n, the file must be named accordingly: `README.de.md`, where `de` is the BCP 47 Language tag. For naming, prioritize non-regional subtags for languages. If there is only one README and the language is not English, then a different language in the text is permissible without needing to specify the BCP tag: e.g., `README.md` can be in German if there is no `README.md` in another language. Where there are multiple languages, `README.md` is reserved for English.
+  - Be a valid Markdown file.
+  - Sections must appear in order given below. Optional sections may be omitted.
+  - Sections must have the titles listed below, unless otherwise specified. If the README is in another language, the titles must be translated into that language.
+  - Must not contain broken links.
+  - If there are code examples, they should be linted in the same way as the code is linted in the rest of the project.
+
+  Standard README specifications 
+  
+  View all [Standard README](https://github.com/RichardLitt/standard-readme/) specifications provided by [RichardLitt](https://github.com/RichardLitt/). 
+
+### Table of Contents
+
+- [Sections](#sections)
+  - [Title](#title)
+  - [Banner](#banner)
+  - [Badges](#badges)
+  - [Short Description](#short-description)
+  - [Long Description](#long-description)
+  - [Table of Contents](#table-of-contents-1)
+  - [Security](#security)
+  - [Background](#background)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Extra Sections](#extra-sections)
+  - [API](#api)
+  - [Maintainers](#maintainers)
+  - [Thanks](#thanks)
+  - [Contributing](#contributing)
+  - [License](#license)
+- [Definitions](#definitions)
 
 
-  ### Badges
+  ## Badges
   
   A collection of some frequently used badges. Badges from [shields.io](https://img.shields.io)
   
@@ -148,7 +183,7 @@ Note: These add-on's are here for other readme documentaion that might have more
   
   #### standardREADME Version
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg)](https://github.com/RichardLitt/standard-readme) Readme stylization follows Richard Litt's [standard readme](https://github.com/RichardLitt/standard-readme)
+  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg)](https://github.com/RichardLitt/standard-readme) Readme stylization follows Richard Litt's [standard readme](https://github.com/RichardLitt/standard-readme)
 
   ```md
   [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-g.svg)](https://github.com/RichardLitt/standard-readme)
@@ -156,35 +191,34 @@ Note: These add-on's are here for other readme documentaion that might have more
 
   #### Open-source README version
 
-[![open-source-readme](https://img.shields.io/badge/readme%20style-open_source-g.svg)](https://github.com/davidbgk/open-source-template) Readme stylization follows David Larlet's [open-source-readme](https://github.com/davidbgk/open-source-template)
+  [![open-source-readme](https://img.shields.io/badge/readme%20style-open_source-g.svg)](https://github.com/davidbgk/open-source-template) Readme stylization follows David Larlet's [open-source-readme](https://github.com/davidbgk/open-source-template)
 
-  ```md
-  [![open-source-readme](https://img.shields.io/badge/readme%20style-open_source-g.svg)](https://github.com/davidbgk/open-source-template)
-```
+    ```md
+    [![open-source-readme](https://img.shields.io/badge/readme%20style-open_source-g.svg)](https://github.com/davidbgk/open-source-template)
+    ```
 
-  #### Repository Not maintained
+    #### Repository Not maintained
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://shields.io/badges/static-badge) Repsitory is not maintained by it's owner
+  [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://shields.io/badges/static-badge) Repsitory is not maintained by it's owner
 
   ```md
   [![Maintenance](https://img.shields.io/badge/Maintained%3F-No-red.svg)](https://shields.io/badges/static-badge)
   ```
   
-  #### Repository Actively Maintained 
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge) Repository is actively maintained by it's owner
+    #### Repository Actively Maintained 
+    [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge) Repository is actively maintained by it's owner
+  
+    ```md
+    [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge)
+    ```
+
+    #### Custom Badges 
+  
+    [![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0) Static badges allowing customizable text
   
   ```md
-  [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-g.svg)](https://shields.io/badges/static-badge)
-  ```
-
-  #### Custom Badges 
-  
-  [![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0) Static badges allowing customizable text
-
-  
-```md
-[![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0)
-  ```
+  [![https://shields.io/badges/static-badge](https://img.shields.io/badge/any_text-you_like-159ee0)](https://img.shields.io/badge/any_text-you_like-159ee0)
+    ```
 
 ### Alternative Header
 
@@ -194,8 +228,7 @@ Note: These add-on's are here for other readme documentaion that might have more
 
 ## Authors
 
-  - **Matthias Ott** - *README Template* -
-    [matthiasott](https://github.com/matthiasott)
+
     
 ## Contributors and Acknowledgments
 
@@ -203,6 +236,10 @@ Note: These add-on's are here for other readme documentaion that might have more
   - Hat tip to anyone whose code is used
   - Inspiration
   - etc
+
+
+**Matthias Ott** - *README Template* -
+    [matthiasott](https://github.com/matthiasott)
 
 To [kyechan99](https://github.com/kyechan99/capsule-render) for the absolutely spectacular capsule-render!
 
