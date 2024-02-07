@@ -45,10 +45,6 @@ One to two paragraphs about the project: What is this project about? What does t
 ### Prerequisites and Main Dependencies
 
 
-* Node
-* TailwindCSS
-* Hugo Extended
-
 
 ### Installation
 
